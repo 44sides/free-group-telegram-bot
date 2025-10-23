@@ -3,6 +3,8 @@ Telegram bot for a group with management and interactive functions using free AP
 
 It is designed to use nicknames among all users, although it requires promotion to a chat administrator. Additionally, attention was paid to flood optimization of the bot, reducing its appearance in a chat to keep it clear and informative.
 
+The bot was used and tested with a private group of approx. 70 users.
+
 ## Management
 Functions to manage members in the group.
 
