@@ -23,7 +23,7 @@ Command | Description | Note
 `/mute` | Shows a list of currently muted users | Composes the `/un_<id>` commands for early unmuting
 `/un_<id>` | Unmutes a user prematurely | Muted users can be found using the `/mute` command.
 **Status Event** | Tracks user joins/leaves | Acts specifically when a user joins/leaves
-**Logging** | Sends logs about actions that can be misused and errors to specified admins. | `/add_verified`, `/remove_verified`, `/nick`, `/unnick`, `/mute`, `/un` logs for `log_ids`
+**Logging** | Sends logs about actions that can be misused and errors to specified admins. | `/add_verified`, `/remove_verified`, `/nick`, `/unnick`, `/mute`, `/un` log for `log_ids`
 
 ## Chat
 Functions for interaction within the group chat.
