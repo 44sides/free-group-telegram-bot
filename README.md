@@ -5,8 +5,6 @@ It is designed to use nicknames among all users, although it requires promotion 
 
 The bot was used and tested with a private group of approx. 70 users.
 
-[@FamilyHelperBot](https://t.me/FamilyHelperBot)
-
 ## Management
 Functions to manage members in the group.
 
